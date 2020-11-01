@@ -38,4 +38,6 @@ I'm a third year student pursuing Bachelors degree in Computer Science from Maha
 ✍ https://medium.com/@deepika_rana
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepika-rana.deepika-rana)
+
 📫 How to reach me: deepikarana500@gmail.com
