@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deepika_rana_)
 
 
-I'm a third year student pursuing Bachelors degree in Computer Science from Maharaja Agrasen Institute of Technology. I am the DSC Laad for our campus. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies. Apart from that I also like to bond and learn in communities. I'm intersted in Deep Learning and making some project to get hands-on and working on my Data Structures and Algorithms.
+I'm a third year student pursuing Bachelors degree in Computer Science from Maharaja Agrasen Institute of Technology. I am the DSC Lead for our campus. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies. Apart from that I also like to bond and learn in communities. I'm intersted in Deep Learning and making some project to get hands-on and working on my Data Structures and Algorithms.
 
     
 🔭**Skills**
