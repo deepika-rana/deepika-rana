@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm [Deepika Rana](https://github.com/deepika-rana)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=deepika-rana&show_icons=true&hide_border=true)
+## I'm [Deepika Rana](https://deepika-rana.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepika-rana)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deepika_rana_)
@@ -33,8 +31,12 @@ I'm a third year student pursuing Bachelors degree in Computer Science from Maha
 - **Web Technologies**: HTML, CSS, JavaScript, SQL
 - **Utilities**: Git
 
-⚡  I also write articles to share my knowledge
+⚡  I also write articles 
 
 ✍ https://medium.com/@deepika_rana
 
 📫 How to reach me: deepikarana500@gmail.com
+
+📈 My GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=deepika-rana&show_icons=true&hide_border=true&theme=gotham)
